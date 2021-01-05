@@ -16,7 +16,7 @@ I get this database that our Professor give us online course in online school an
 
 # TABLE NAME AND DECRIPTION
 WEB_EVENTS	ACCOUNTS	ORDERS	SALES-REPS	REGION </br>
-<br>PK	 </br>      PK	       PK	     PK	       PK
+ </br> PK	  </br>PK	       PK	     PK	       PK
   FK       	FK	       FK	     FK	
 
 # DATABASE DEPENDENCY DIAGRAM
