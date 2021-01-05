@@ -26,6 +26,7 @@ Data Dependency has a big rule in data table so that the data are always secure 
 # Query 1. 
 SELECT id, account_id, occurred_at
 FROM orders;
+<br></br>
 This Query you will see all the records of Id number which is in series and has also a date this is important in all data’s of database because you will see the data which in orders.
  
 # Query2.
@@ -149,7 +150,6 @@ SELECT id, (standard_amt_usd/total_amt_usd)+150 AS std_percent, total_amt_usd
 FROM orders
 LIMIT 10;
 In this Query Arithmetic this time we used addition to add all the total. In each row there is a number and in columns will be add. Creating a new column that is a combination of existing columns is known as a derived column (or "calculated" or "computed" column). Usually you want to give a name, or "alias," to your new column using the AS keyword. 
-= 
 
 
 
