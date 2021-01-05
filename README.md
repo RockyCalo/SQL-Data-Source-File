@@ -15,7 +15,7 @@ Where did you get the database?
 I get this database that our Professor give us online course in online school and I take it because it is free and also it helps me a lot the SQL how it work in data either big data or small data .How to CRUD the data in a database with proper query and not only CRUD but more complex query in each table.
 
 # TABLE NAME AND DECRIPTION
-WEB_EVENTS	ACCOUNTS	ORDERS	SALES-REPS	REGION
+WEB_EVENTS	ACCOUNTS	ORDERS	SALES-REPS	REGION </br>
   PK	       PK	       PK	     PK	       PK
   FK       	FK	       FK	     FK	
 
