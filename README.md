@@ -29,7 +29,7 @@ SELECT id, account_id, occurred_at
 FROM orders;
 <br></br>
 This Query you will see all the records of Id number which is in series and has also a date this is important in all data’s of database because you will see the data which in orders.
-<br>/<br>
+<br><br>
 ![image](https://user-images.githubusercontent.com/72955529/103715228-04274480-4ffb-11eb-96bb-89dd70add4ee.png)
 
 # Query2.
@@ -37,7 +37,9 @@ SELECT account_id
 FROM orders
 <br></br>
 In this Query all data in web_events table the foreign key of account_id will pull out in the series this is important because it is a fundamentals of Query.
- 
+<br></br>
+![image](https://user-images.githubusercontent.com/72955529/103715359-5e280a00-4ffb-11eb-93b8-36a7a2361863.png)
+
 # Query 3.
 Select name from accounts limit 15;
 <br></br>
