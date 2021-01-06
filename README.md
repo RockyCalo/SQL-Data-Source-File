@@ -19,8 +19,7 @@ I get this database that our Professor give us online course in online school an
 
 # TABLE NAME AND DECRIPTION
 WEB_EVENTS	ACCOUNTS	ORDERS	SALES-REPS	REGION </br>
-  PK	        PK	       PK	     PK	       PK
-  FK         FK	       FK	     FK	
+![New Project](https://user-images.githubusercontent.com/72955529/103714976-5a47b800-4ffa-11eb-80fa-d2f1d33004a7.png)
 
 # DATABASE DEPENDENCY DIAGRAM
 Data Dependency has a big rule in data table so that the data are always secure and less Redundancy. 
