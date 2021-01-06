@@ -11,9 +11,6 @@ This kind of database is all about the company who sells a paper it has a 50 sal
 
  
 
-
-
-
 Where did you get the database?
 I get this database that our Professor give us online course in online school and I take it because it is free and also it helps me a lot the SQL how it work in data either big data or small data .How to CRUD the data in a database with proper query and not only CRUD but more complex query in each table.
 
@@ -23,6 +20,8 @@ WEB_EVENTS	ACCOUNTS	ORDERS	SALES-REPS	REGION </br>
 
 # DATABASE DEPENDENCY DIAGRAM
 Data Dependency has a big rule in data table so that the data are always secure and less Redundancy. 
+![New Project (1)](https://user-images.githubusercontent.com/72955529/103715096-b6aad780-4ffa-11eb-8d9c-478b1598b6c5.png)
+
  
 # Complex Queries:
 # Query 1. 
