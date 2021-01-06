@@ -29,7 +29,8 @@ SELECT id, account_id, occurred_at
 FROM orders;
 <br></br>
 This Query you will see all the records of Id number which is in series and has also a date this is important in all data’s of database because you will see the data which in orders.
- 
+![image](https://user-images.githubusercontent.com/72955529/103715228-04274480-4ffb-11eb-96bb-89dd70add4ee.png)
+
 # Query2.
 SELECT account_id
 FROM orders
