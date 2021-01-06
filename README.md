@@ -6,6 +6,9 @@ Goal:
 To practice the advance schema of a database to see the anomalies in making database table with the use of advance query so that in time when we are in the industries we are equip in database and Will trained. To prevent the redundancy of a data that can be make problem during in the operation I learn this things to our professor this learning will make the data secure and to prevent bad data. 
 Database all about:
 This kind of database is all about the company who sells a paper it has a 50 sales reps spread across the United States in four region this paper company sell three types of paper the regular, poster, and glossy.  This database can relate to the real world situation of SQL the problems that we encounter along the way to prevent the anomalies data in database by using SQL. I choose this type of database because this schema can help me to apply real world situation in the industries to prevent redundancy in the data. By the used of unique key in each table that has relationship it help my skills to develop more backend jobs with agile method to prevent errors in the future in the operation in any aspect which is the marketing finance. This Company consist a lot of data in the real world data is always growing  to prevent anomalies in early stage much better to design the ERD standards that our professor teach to us. 
+
+![image](https://user-images.githubusercontent.com/72955529/103714462-aba37780-4ff9-11eb-876d-dc7c3e29937b.png)
+
  
 
 
